@@ -5,9 +5,13 @@ Hi there 👋
 Nice meeting you, I'm Hariom!
 
 🚀 Full Stack Developer with 2.5+ years of experience
+
 💻 Ask me about Web development, React, .NET, and API integrations
+
 🔗 How to reach me: LinkedIn - [hariom-srivastava-sep254651](https://www.linkedin.com/in/hariom-srivastava-sep254651/) | GitHub - [@hariomsep21](https://github.com/hariomsep21)
+
 😊 Pronouns: He/Him
+
 ⚡ Fun fact: When I'm not coding, I'm probably playing games with my friends or exploring new tech!
 
 ---
